@@ -9,5 +9,5 @@ spec:
     container:
       image: docker/whalesay:latest
       command: [cowsay]
-      args: ["hello"]
+      args: ["hello hiii"]
 
